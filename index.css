@@ -1,6 +1,9 @@
 body {
   margin: 0;
   padding: 0;
+  background-image: url("jad.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .logo {
@@ -9,11 +12,12 @@ body {
 }
 
 nav {
-  background-color: #333;
+  background-color: #000000;
   color: #fff;
   display: flex;
   justify-content: center;
   padding: 10px;
+  text-align: center;
 }
 
 nav ul {
