@@ -4,6 +4,8 @@ body {
   background-image: url("jad.jpg");
   background-repeat: no-repeat;
   background-size: cover;
+  width: 100vw;
+  height: 100vh;
 }
 
 .gold {
@@ -12,10 +14,10 @@ body {
 
 }
 
-
 .logo {
   text-align: center;
-  margin-top: 50px
+  margin-top: 50px;
+
 }
 
 nav {
