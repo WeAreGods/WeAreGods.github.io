@@ -9,23 +9,15 @@ body {
 }
 
 .gold {
-  margin-top: -588px;
+  margin-top: -33.9px;
   object-position: center;
   margin-left: 44%;
-
 }
 
 .gold2 {
     margin-left: 56.5%;
     margin-top: -35px;
     object-position: center;
-    position: absolute;
-}
-
-.logo {
-  text-align: center;
-  margin-top: 50px;
-
 }
 
 nav {
@@ -56,11 +48,4 @@ nav a {
 
 nav a:hover {
   color: #ff9900;
-}
-
-.footer {
-  color: #ff9900;
-  object-position: top;
-  margin-top: -48px;
-  margin-left: 5px;
 }
